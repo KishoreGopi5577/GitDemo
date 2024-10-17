@@ -1,0 +1,5 @@
+testcases\CreatePortfolioTest.class
+testcases\GettingProductTest.class
+samplePkg\StandAloneTest.class
+testcases\PlaceOrder.class
+report\ExtentReporterNG.class

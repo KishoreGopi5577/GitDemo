@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-13T14:06:52 IST" name="Surefire suite" finished-at="2024-10-13T14:07:43 IST" duration-ms="50655">
+    <groups>
+    </groups>
+    <test started-at="2024-10-13T14:06:52 IST" name="Surefire test" finished-at="2024-10-13T14:07:43 IST" duration-ms="50655">
+      <class name="samplePkg.StandAloneTest">
+        <test-method signature="firstTest()[pri:0, instance:samplePkg.StandAloneTest@56528192]" started-at="2024-10-13T14:06:52 IST" name="firstTest" finished-at="2024-10-13T14:07:18 IST" duration-ms="25467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- samplePkg.StandAloneTest -->
+      <class name="testcases.GettingProductTest">
+        <test-method signature="firstTest()[pri:0, instance:testcases.GettingProductTest@60d8c9b7]" started-at="2024-10-13T14:07:28 IST" name="firstTest" finished-at="2024-10-13T14:07:43 IST" duration-ms="15130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- testcases.GettingProductTest -->
+      <class name="testcases.CreatePortfolioTest">
+        <test-method signature="createPortFolioTest()[pri:0, instance:testcases.CreatePortfolioTest@3967e60c]" started-at="2024-10-13T14:07:18 IST" name="createPortFolioTest" finished-at="2024-10-13T14:07:28 IST" duration-ms="10034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPortFolioTest -->
+      </class> <!-- testcases.CreatePortfolioTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

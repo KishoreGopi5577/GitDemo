@@ -15,6 +15,9 @@ public class CreatePortfolioTest {
 	@Test
 	public void createPortFolioTest() {
 		
+		System.out.println("GIT Practice 1");
+		System.out.println("GIT Practice 2");
+		
 		ExtentReporterNG reporter = new ExtentReporterNG();
 		ExtentReports logger = reporter.getReportObject();
 		ExtentTest log = logger.createTest("FIRST TEST");

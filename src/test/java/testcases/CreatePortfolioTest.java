@@ -24,9 +24,14 @@ public class CreatePortfolioTest {
 		ApplicationKeywords app = new ApplicationKeywords(log);
 		
 		System.out.println("GIT Practice 3");
-		System.out.println("GIT Practice 4");
+
+		
 		System.out.println("GIT Practice 5");
 		System.out.println("GIT Practice 6");
+
+		
+		System.out.println("deleted and added GIT Practice 5");
+
 		
 		log.log(Status.PASS, "Starting Test");
 		

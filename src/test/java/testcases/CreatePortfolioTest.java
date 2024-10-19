@@ -23,14 +23,11 @@ public class CreatePortfolioTest {
 		ExtentTest log = logger.createTest("FIRST TEST");
 		ApplicationKeywords app = new ApplicationKeywords(log);
 		
-		System.out.println("GIT Practice 3");
-
 		
-		System.out.println("GIT Practice 5");
 		System.out.println("GIT Practice 6");
-
+		System.out.println("GIT Practice 7");
+		System.out.println("GIT Practice 8");
 		
-		System.out.println("deleted and added GIT Practice 5");
 
 		
 		log.log(Status.PASS, "Starting Test");

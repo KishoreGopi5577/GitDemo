@@ -25,6 +25,8 @@ public class CreatePortfolioTest {
 		
 		System.out.println("GIT Practice 3");
 		System.out.println("GIT Practice 4");
+		System.out.println("GIT Practice 5");
+		System.out.println("GIT Practice 6");
 		
 		log.log(Status.PASS, "Starting Test");
 		
